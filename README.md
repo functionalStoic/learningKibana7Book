@@ -2,7 +2,7 @@
 
 ### A beginner's guide to analyzing and visualizing Elasticsearch data using Kibana 7 and Timelion
 
-<img src="./Images/cover.jpg" style="width: 450px"/>
+<img src="./Images/cover.jpg" width=450/>
 
 [Link to Book](https://www.packtpub.com/data/learning-kibana-7-second-edition)
 

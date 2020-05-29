@@ -6,6 +6,8 @@
 
 [Link to Book](https://www.packtpub.com/data/learning-kibana-7-second-edition)
 
+[Link to GH Repo](https://github.com/PacktPublishing/Learning-Kibana-7-Second-Edition)
+
 - Explore the data-driven architecture of the Elastic Stack
 - Install and set up Kibana 7 and other Elastic Stack components
 - Use Beats and Logstash to get input from different data sources
